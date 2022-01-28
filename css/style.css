@@ -10,7 +10,8 @@
 }
 
 body {
-    background-image: url('images/background-food.png');
+    background-image: url("../images/background-food.png");
+    background-color: #cccccc;
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
